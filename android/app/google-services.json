@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384002595361",
+    "project_id": "borno-shikhon",
+    "storage_bucket": "borno-shikhon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384002595361:android:86af1858e00dd6ce2d2160",
+        "android_client_info": {
+          "package_name": "com.example.borno_shikhon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384002595361-7ah0u9u67fkn66a9jms4up49g6uqj638.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.borno_shikhon",
+            "certificate_hash": "f9c86f7feb0172d88dcd2ce9cc1b59303a82a945"
+          }
+        },
+        {
+          "client_id": "384002595361-gtnqdpprjsfmkog1mutravhl8a032cho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKebRfaov7i-YBhBsCfwy2MUTzSd-TFmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384002595361-gtnqdpprjsfmkog1mutravhl8a032cho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
